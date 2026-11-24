@@ -1,4 +1,5 @@
 //==================== Top Module ====================
+
 module fifo_top #(
     parameter DEBOUNCE_BITS = 20   // testbench overrides this with a small value
 )(
